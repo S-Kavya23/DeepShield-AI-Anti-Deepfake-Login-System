@@ -8,6 +8,8 @@ This project is created using AI tools. The application was developed by providi
 - AI powered solution
 - Liveness detection [Face Detection, Voice Verification, Fingerprint Authentication]
 - How It Works
+
+
 1 Choose Your Authentication Mode
 Select between Full Secure Login or Camera + Voice Only based on your security needs.
 
